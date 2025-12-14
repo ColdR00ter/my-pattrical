@@ -1,4 +1,4 @@
-# my-pattrical
+
 def encryptText(password, key):
     print("Original Password:", password)
     print(key)
